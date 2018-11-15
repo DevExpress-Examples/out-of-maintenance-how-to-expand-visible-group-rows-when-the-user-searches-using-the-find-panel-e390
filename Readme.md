@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainForm.cs](./CS/FindPanelExample/MainForm.cs) (VB: [MainForm.vb](./VB/FindPanelExample/MainForm.vb))
+<!-- default file list end -->
 # How to expand visible group rows when the user searches using the Find Panel
 
 
